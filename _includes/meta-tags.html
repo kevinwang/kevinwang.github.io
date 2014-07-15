@@ -1,0 +1,21 @@
+{% if page.description %}
+  {% assign description = page.description %}
+{% else if page.id %}
+  {% assign description = page.excerpt | strip_html | strip_newlines %}
+{% else %}
+  {% assign description = site.description | strip_html %}
+{% endif %}
+
+<meta name="description" content="{{ description }}">
+
+{% if page.id %}
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary">
+
+  <!-- Open Graph data -->
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}/images/kevin.jpg">
+  <meta property="og:description" content="{{ description }}">
+{% endif %}
