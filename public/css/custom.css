@@ -1,0 +1,17 @@
+/* Post content */
+.post img {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Embedded Gists */
+.gist-data {
+    max-height: 500px;
+}
+
+/* Disqus comments */
+#disqus_thread {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-top: 1px solid #eee;
+}
