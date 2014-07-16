@@ -1,6 +1,6 @@
 {% if page.description %}
   {% assign description = page.description %}
-{% else if page.id %}
+{% elsif page.id %}
   {% assign description = page.excerpt | strip_html | strip_newlines %}
 {% else %}
   {% assign description = site.description | strip_html %}
