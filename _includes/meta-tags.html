@@ -1,9 +1,9 @@
 {% if page.description %}
-  {% assign description = page.description %}
+  {% assign description = page.description | escape %}
 {% elsif page.id %}
-  {% assign description = page.excerpt | strip_html | strip_newlines %}
+  {% assign description = page.excerpt | strip_html | strip_newlines | escape %}
 {% else %}
-  {% assign description = site.description | strip_html %}
+  {% assign description = site.description | strip_html | escape %}
 {% endif %}
 
 <meta name="description" content="{{ description }}">

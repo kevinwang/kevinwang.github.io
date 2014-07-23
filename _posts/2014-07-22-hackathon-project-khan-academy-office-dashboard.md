@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Hackathon project: Khan Academy office dashboard'
+description: My team's goal was to make "a beautiful new 'KA today at a glance' dashboard" for our soon-to-be new office.
 ---
 ![KA dashboard photo](/images/2014/07/ka-dashboard-photo.jpg)
 
