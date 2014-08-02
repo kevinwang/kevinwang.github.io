@@ -18,7 +18,7 @@ I decided to host my screenshots using [Amazon Web Services](http://aws.amazon.c
 
 To begin, we'll need to create an S3 bucket for our screenshots. Buckets are where all objects in S3 are stored. Follow the instructions [here](http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html) to create a bucket. Here, I've named my bucket `kevinwang-screenshots`.
 
-![Creating a new S3 bucket](/images/2014/07/s3-create-bucket.png)
+[![Creating a new S3 bucket](/images/2014/07/s3-create-bucket.png)](/images/2014/07/s3-create-bucket.png)
 
 ## Creating a CloudFront distribution
 
@@ -28,7 +28,7 @@ In the AWS console, go to the CloudFront console and click Create Distribution. 
 
 Since we only want to serve images through CloudFront, select Yes for Restrict Bucket Access. For Origin Access Identity, select "Create a New Identity," and for Grant Read Permissions on Bucket, select "Yes, Update Bucket Policy."
 
-![Creating a new CloudFront distribution](/images/2014/07/cloudfront-create-distribution.png)
+[![Creating a new CloudFront distribution](/images/2014/07/cloudfront-create-distribution.png)](/images/2014/07/cloudfront-create-distribution.png)
 
 If you have a custom domain name you want to use for your image host, add it to "Alternative Domain Names (CNAMES)." Otherwise, you'll have to use an unsexy domain name like `d2j5nv0uysqvdx.cloudfront.net`. If you choose to use a custom domain name, you'll also need to add a CNAME record from your custom domain name to your unsexy CloudFront domain. In this example, I will be using `screenshots.kevinwang.com`.
 
@@ -70,6 +70,6 @@ In OS X, `Cmd-Shift-4` takes a regular screenshot by default. Let's make it run 
 
 Open Automator and create a new service. Configure it as follows, and save it with a meaningful name like "Upload Screenshot."
 
-![Automator service configuration](/images/2014/07/automator-upshot.png)
+[![Automator service configuration](/images/2014/07/automator-upshot.png)](/images/2014/07/automator-upshot.png)
 
 Then open System Preferences and navigate to Keyboard > Shortcuts. Untick "Save picture of selected area as a file." Now go to Services and scroll to the very bottom where you'll find the service you just made. Assign your service the shortcut `Cmd-Shift-4`, and you're done!

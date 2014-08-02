@@ -3,7 +3,7 @@ layout: post
 title: 'Hackathon project: Khan Academy office dashboard'
 description: My team's goal was to make "a beautiful new 'KA today at a glance' dashboard" for our soon-to-be new office.
 ---
-![KA dashboard photo](/images/2014/07/ka-dashboard-photo.jpg)
+[![KA dashboard photo](/images/2014/07/ka-dashboard-photo.jpg)](/images/2014/07/ka-dashboard-photo.jpg)
 
 This past weekend was the Khan Academy Healthy Hackathon. Check out [Ben Kamens's blog post](http://bjk5.com/post/26810034751/how-we-ran-the-first-khan-academy-healthy-hackathon) for details about what exactly the Healthy Hackathon is and what makes it special, but in a nutshell, we were required to be "healthy hackers." In other words, we had to eat healthily (no junk food) and sleep well every night. To that end, everyone is kicked out of the office at 11:45 pm and let back in the next morning at 9:30 am.
 
