@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Kevin Wang
 tagline:          Software developer, student
-description:      I'm a software developer and student from New York City. I study Computer Science at <a href="http://cs.illinois.edu/">UIUC</a> and this summer I was an intern at <a href="https://www.khanacademy.org/">Khan Academy</a>.
+description:      I'm a software developer and student from New York City. I study computer science at <a href="http://cs.illinois.edu/">UIUC</a> and was recently an intern at <a href="https://www.khanacademy.org/">Khan Academy</a>.
 url:              http://www.kevinwang.com
 baseurl:          '/'
 paginate:         5
