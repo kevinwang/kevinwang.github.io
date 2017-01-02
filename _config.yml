@@ -18,3 +18,4 @@ author:
   url:            http://www.kevinwang.com/
 
 exclude: [Gemfile, Gemfile.lock, Makefile, README.md]
+include: [.well-known]

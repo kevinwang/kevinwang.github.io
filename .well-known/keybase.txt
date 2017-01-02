@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/kevinwang
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kevinwang.com
+  * I am kevinwang (https://keybase.io/kevinwang) on keybase.
+  * I have a public key ASAF6xVFe2OlziwHSofp27DmKVjvby-T5ZjEKWVo6bGqOgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010137ac621622e884f4e6d7a4f6f3172700d7a7cad4c8b65fd9441c44ac55be28c80a",
+            "host": "keybase.io",
+            "kid": "012005eb15457b63a5ce2c074a87e9dbb0e62958ef6f2f93e598c4296568e9b1aa3a0a",
+            "uid": "f60f325ae8edeb134934e6a866e72c00",
+            "username": "kevinwang"
+        },
+        "service": {
+            "hostname": "kevinwang.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1483335657,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1483335538,
+        "hash": "6314e245847241ba3bb270e8cc38f33300f4176318cd789062294b087e68e314165b4478ed250804515adfc775aa7866b2a60ea5a94e0c21055889f332f968a1",
+        "seqno": 781609
+    },
+    "prev": "96fdff8151a1d48dbfe05101769d828b13627527d7fa6c0697f7a228a565d76c",
+    "seqno": 25,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBesVRXtjpc4sB0qH6duw5ilY728vk+WYxCllaOmxqjoKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMzdhYzYyMTYyMmU4ODRmNGU2ZDdhNGY2ZjMxNzI3MDBkN2E3Y2FkNGM4YjY1ZmQ5NDQxYzQ0YWM1NWJlMjhjODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDVlYjE1NDU3YjYzYTVjZTJjMDc0YTg3ZTlkYmIwZTYyOTU4ZWY2ZjJmOTNlNTk4YzQyOTY1NjhlOWIxYWEzYTBhIiwidWlkIjoiZjYwZjMyNWFlOGVkZWIxMzQ5MzRlNmE4NjZlNzJjMDAiLCJ1c2VybmFtZSI6Imtldmlud2FuZyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoia2V2aW53YW5nLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDgzMzM1NjU3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODMzMzU1MzgsImhhc2giOiI2MzE0ZTI0NTg0NzI0MWJhM2JiMjcwZThjYzM4ZjMzMzAwZjQxNzYzMThjZDc4OTA2MjI5NGIwODdlNjhlMzE0MTY1YjQ0NzhlZDI1MDgwNDUxNWFkZmM3NzVhYTc4NjZiMmE2MGVhNWE5NGUwYzIxMDU1ODg5ZjMzMmY5NjhhMSIsInNlcW5vIjo3ODE2MDl9LCJwcmV2IjoiOTZmZGZmODE1MWExZDQ4ZGJmZTA1MTAxNzY5ZDgyOGIxMzYyNzUyN2Q3ZmE2YzA2OTdmN2EyMjhhNTY1ZDc2YyIsInNlcW5vIjoyNSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDTi92NLmzha4gu7UTrSMUW/mBOpsSfOYWhRkQ/bqoZvc2qZwfU+IXes7ugdsEghRjOJlH8LEVSQXJJL+/Qr7oAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg03p6ILzWHHKH3VQBsNxjXLW7PMIGu2Mgr+uWSaLDvCajdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kevinwang
+
+==================================================================
